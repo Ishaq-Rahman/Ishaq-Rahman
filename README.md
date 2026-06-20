@@ -1,11 +1,3 @@
-<!--
-  GitHub profile README.
-  To publish: create a PUBLIC repo named exactly your username
-  (e.g. github.com/Ishaq-Rahman/Ishaq-Rahman), put this file at its root as
-  README.md, and GitHub renders it on your profile page automatically.
-  Replace "Ishaq-Rahman" everywhere below with your real GitHub username.
--->
-
 # Hi, I'm Ishaq 👋
 
 **AI / LLM engineer and backend builder.** I design and run self-hosted AI systems — and I learn by building things that have to actually work.

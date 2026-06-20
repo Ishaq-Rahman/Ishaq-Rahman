@@ -37,6 +37,6 @@ A sanitized engineering showcase of the platform above — architecture write-up
 ### 📫 Reach me
 
 - 📧 IshaqRahman3@outlook.com
-- 💼 [LinkedIn](#) <!-- add your LinkedIn URL -->
+- 💼 [LinkedIn](https://www.linkedin.com/in/ishaqrahman12/)
 
 <sub>Where my systems have limits, I document them — good engineering is knowing where the edges are.</sub>
